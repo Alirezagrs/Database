@@ -1,2 +1,2 @@
 # Database
-New things which are learned by me from Projects and LeetCode.
+New things which are learned by me from Projects and LeetCode and HackerRank.
